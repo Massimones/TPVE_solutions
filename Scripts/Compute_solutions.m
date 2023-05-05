@@ -10,7 +10,7 @@ close all
 H=10*10^9;               % Constant of Biot (Pa)
 alfa=3*10^(-5);          % thermal expansion (1/K)
 dp=10e6;                 % pore pressure change of the inclusion (Pa)
-dT=100;                  % Temperature change of the inclusion  (Pa)
+dT=100;                  % Temperature change of the inclusion  (°C)
 a=2500;                  % disk radius (m)
 db=500;                  % disk height  (m)
 mu=6*10^9;               % Shear modulus (Pa)
