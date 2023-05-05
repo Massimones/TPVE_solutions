@@ -1,8 +1,10 @@
 # Description of the scripts (TPVE solutions)
-Matlab scripts to compute Thermo-Poro-Visco-Elastic displacement, stress and strain
 
 
-    The two script compute visco-elastic displacement, strain and stress due to a disk-shaped TPVE inclusion   
+
+    The two script compute visco-elastic displacement, strain and stress due to a disk-shaped Thermo-Poro-Visco-Elastic
+    (TPVE) inclusion   
+    
     Input parameters are in S.I. The scripts are written in MATLAB (2022b).                                    
                                                                                                                
                    Massimo Nespoli 05/05/2023                                                                 
